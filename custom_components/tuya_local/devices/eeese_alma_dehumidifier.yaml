@@ -73,6 +73,13 @@ entities:
       - id: 10
         type: boolean
         name: switch
+  - entity: switch
+    translation_key: uv
+    category: config
+    dps:
+      - id: 13
+        type: boolean
+        name: switch
   - entity: lock
     translation_key: child_lock
     category: config
