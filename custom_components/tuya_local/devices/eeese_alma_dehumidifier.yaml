@@ -74,7 +74,7 @@ entities:
         type: boolean
         name: switch
   - entity: switch
-    translation_key: uv
+    translation_key: uv_sterilization
     category: config
     dps:
       - id: 13
